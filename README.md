@@ -32,6 +32,6 @@
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=shashankdongre&" alt="shashankdongre" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=shashankdongre&show_icons=true&locale=en" alt="shashankdongre" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=shashankdongre&show_icons=true&locale=en" alt="shashankdongre" /></p>
 
 
