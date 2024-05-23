@@ -1,6 +1,6 @@
 ![logo](https://github.com/ShashankDongre/ShashankDongre/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Shashank Dongre</h1>
-<h3 align="center">A passionate data analyst professional and a lifelong learner from Boston, MA</h3>
+<h3 align="center">A passionate data analyst professional and a lifelong learner from Miami, FL</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
